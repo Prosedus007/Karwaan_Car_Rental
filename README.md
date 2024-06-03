@@ -85,6 +85,12 @@ Copy code
 - Node.js
 
 ## Screenshots
-
-![alt text](Images/admin.png) ![alt text](Images/booking.png) ![alt text](Images/car.png) ![alt text](Images/date.png) ![alt text](Images/home.png) ![alt text](Images/login.png) ![alt text](Images/payment.png) ![alt text](Images/payment1.png) ![alt text](Images/register.png)
-
+ [alt text](Images/register.png)
+![alt text](Images/login.png)
+![alt text](Images/home.png) 
+![alt text](Images/car.png)
+![alt text](Images/date.png)
+![alt text](Images/admin.png)     
+![alt text](Images/payment.png) 
+![alt text](Images/payment1.png)
+![alt text](Images/booking.png)
