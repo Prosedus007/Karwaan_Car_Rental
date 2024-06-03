@@ -85,7 +85,7 @@ Copy code
 - Node.js
 
 ## Screenshots
- [alt text](Images/register.png)
+![alt text](Images/register.png)
 ![alt text](Images/login.png)
 ![alt text](Images/home.png) 
 ![alt text](Images/car.png)
